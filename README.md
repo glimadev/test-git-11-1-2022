@@ -14,3 +14,6 @@ git add . -> adiciona os arquivos alterados pra stage de commit
 git commit -m -> salvar o código na branch -m "asdsfsdffdg"
 
 git push -u origin main -> pegar o código que foi commitado e empurra pro repositorio remoto
+
+
+editei
